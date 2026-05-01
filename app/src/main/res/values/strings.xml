@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My GitHub App</string>
+    <string name="hello_world">স্বাগতম! এটি গিটহাব থেকে বিল্ড করা অ্যাপ।</string>
+</resources>
